@@ -4,5 +4,5 @@ pkg install python3
 pkg install python3-pip
 pip install requests
 pip install colorama
-echo "SavurduBomb Hazır."
+echo "SavurduBomb Hazir."
 python3 bomber.py
